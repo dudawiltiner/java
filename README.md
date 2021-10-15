@@ -10,10 +10,10 @@ A Aceleração é um programa extra oferecido ela Trybe visando o preenchimento 
 
 ##### Módulo 1: Básico da Linguagem Java
 
-- [X] 1-3: _Tipos de Dados_
-- [X] 1-4: _Trabalhando com Strings_
+- [X] 1-2: _Tipos de Dados_
+- [X] 1-3: _Trabalhando com Strings_
 - [X] 1-4: _Métodos, construtores e controle de acesso_
-- [X] 1-4: _Arrays, ArrayLists e controle de fluxo_
+- [X] 1-5: _Arrays, ArrayLists e controle de fluxo_
 
 
 
