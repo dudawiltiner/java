@@ -17,14 +17,27 @@ A Aceleração é um programa extra oferecido ela Trybe visando o preenchimento 
 
 ##### Módulo 2: Herança, Encapsulamento e Polimorfismo
 
-- [X] 1-1: _Programaçã orientada a objetos_
-- [X] 1-2: _Objetos, Classes e Atributos_
-- [X] 1-3: _Interface_
-- [X] 1-4: _Herança, Interface, Encapsulamento e polimorfismo_
+- [X] 2-1: _Programaçã orientada a objetos_
+- [X] 2-2: _Objetos, Classes e Atributos_
+- [X] 2-3: _Interface_
+- [X] 2-4: _Herança, Interface, Encapsulamento e polimorfismo_
 
 ##### Módulo 3: Interface, Abstract Class, Reflection. Annotaion
 
-- [X] 1-1: _Interface_
-- [X] 1-2: _Abstract Class_
-- [X] 1-3: _Reflection_
-- [X] 1-4: _Annotation_
+- [X] 3-1: _Interface_
+- [X] 3-2: _Abstract Class_
+- [X] 3-3: _Reflection_
+- [X] 3-4: _Annotation_
+
+##### Módulo 4: Criar Entidades de Banco de Dados
+
+- [X] 4-1: _Spring Boot_
+- [X] 4-2: _Modelagem SQL_
+- [X] 4-3: _Introdução ao PostgreSQL_
+- [X] 4-4: _Hibernate JPA_
+
+##### Módulo 5: Introdução à consultas ao Banco de Dados
+
+- [X] 5-1: _SQL_
+- [X] 5-2: _Hibernate_
+- [X] 5-3: _Spring Data_
