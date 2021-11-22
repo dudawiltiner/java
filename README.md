@@ -17,17 +17,17 @@ A Aceleração é um programa extra oferecido ela Trybe visando o preenchimento 
 
 ##### Módulo 2: Herança, Encapsulamento e Polimorfismo
 
-- [X] 2-1: _Programaçã orientada a objetos_
+- [X] 2-1: _Programação orientada a objetos_
 - [X] 2-2: _Objetos, Classes e Atributos_
 - [X] 2-3: _Interface_
 - [X] 2-4: _Herança, Interface, Encapsulamento e polimorfismo_
 
-##### Módulo 3: Interface, Abstract Class, Reflection. Annotaion
+##### Módulo 3: Interface, Classe Abstrata, Reflexão. Anotação
 
 - [X] 3-1: _Interface_
-- [X] 3-2: _Abstract Class_
-- [X] 3-3: _Reflection_
-- [X] 3-4: _Annotation_
+- [X] 3-2: _Classe Abstrata_
+- [X] 3-3: _Reflexão_
+- [X] 3-4: _Anotação_
 
 ##### Módulo 4: Criar Entidades de Banco de Dados
 
