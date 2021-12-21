@@ -22,7 +22,7 @@ A Aceleração é um programa extra oferecido ela Trybe visando o preenchimento 
 - [X] 2-3: _Interface_
 - [X] 2-4: _Herança, Interface, Encapsulamento e polimorfismo_
 
-##### Módulo 3: Interface, Classe Abstrata, Reflexão. Anotação
+##### Módulo 3: Interface, Classe Abstrata, Reflexão, Anotação
 
 - [X] 3-1: _Interface_
 - [X] 3-2: _Classe Abstrata_
