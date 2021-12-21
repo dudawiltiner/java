@@ -41,3 +41,27 @@ A Aceleração é um programa extra oferecido ela Trybe visando o preenchimento 
 - [X] 5-1: _SQL_
 - [X] 5-2: _Hibernate_
 - [X] 5-3: _Spring Data_
+
+##### Módulo 6: Validação e API REST
+
+- [X] 5-1: _SQL_
+- [X] 5-2: _Hibernate_
+- [X] 5-3: _Spring Data_
+
+##### Módulo 7: Segurança, Swagger e OAuth 2
+
+- [X] 5-1: _SQL_
+- [X] 5-2: _Hibernate_
+- [X] 5-3: _Spring Data_
+
+##### Módulo 8: S.O.L.I.D, Clean Code e TDD
+
+- [X] 5-1: _SQL_
+- [X] 5-2: _Hibernate_
+- [X] 5-3: _Spring Data_
+
+##### Módulo 9: Maven, DevOps e Deploy
+
+- [X] 5-1: _SQL_
+- [X] 5-2: _Hibernate_
+- [X] 5-3: _Spring Data_
