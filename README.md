@@ -65,3 +65,7 @@ A Aceleração é um programa extra oferecido ela Trybe visando o preenchimento 
 - [X] 5-1: _SQL_
 - [X] 5-2: _Hibernate_
 - [X] 5-3: _Spring Data_
+
+## Projeto Final da Aceleração Java:
+
+- [Link do Projeto Final - Central de Erros API](https://github.com/dudawiltiner/central-error-api-java)
